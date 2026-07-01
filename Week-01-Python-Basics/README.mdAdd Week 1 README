@@ -1,0 +1,16 @@
+# Week 1 - Python Basics
+
+## Topics Covered
+- Python Features
+- Variables
+- Data Types
+- Lists
+- Tuples
+- Dictionaries
+- Hashable vs Unhashable
+- Object Identity (`id()`)
+- Nested Lists
+- Shallow Copy vs Deep Copy
+
+## Goal
+Learning Python fundamentals through daily coding practice.
